@@ -1,6 +1,7 @@
 :root {
     --colorRojo: #b81e14;
     --colorGris: #92908b;
+    --colorGrisOscuro: #444444;
 }
 
 /*todos los elementos quedan con borderbox, sin margen y sin padding*/
